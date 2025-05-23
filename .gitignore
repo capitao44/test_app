@@ -1,0 +1,18 @@
+# Ignora a pasta com os dados dos usuários
+users_data/
+
+# Ignora o arquivo principal de usuários (onde a senha em texto puro está)
+users.json
+
+# Ignora caches do Python
+__pycache__/
+*.pyc
+
+# Ignora pastas de ambiente virtual
+.venv/
+venv/
+env/
+
+# Ignora arquivos de sistema operacional
+.DS_Store
+Thumbs.db
